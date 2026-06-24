@@ -8,8 +8,15 @@ I'm a curious and versatile tech enthusiast with a passion for continuous learni
 - Always looking for new things to learn and explore
 
 ## Programming languages
+### Often used
 - C/C++
+
+### Other (used)
 - Rust  (still learning)
+- Java
+- Python
+- Javascript (slightly)
+- HTML & CSS (slightly)
 
 ## I’m Interested In
 - IoT & Embedded Systems
